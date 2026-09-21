@@ -4,7 +4,7 @@ function Header() {
       <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-serif font-bold text-[#2d2926]">
-            WOODORA
+            Uk
           </h1>
           <p className="text-xs tracking-[4px] text-[#8b7355]">FURNITURE</p>
         </div>
