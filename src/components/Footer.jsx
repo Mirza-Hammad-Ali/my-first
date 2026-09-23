@@ -41,7 +41,7 @@ function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-700 mt-10 pt-6 text-center text-gray-500">
-           2026 UK Furniture. All rights reserved.
+          2026 UK Furniture. All rights reserved.
         </div>
       </div>
     </footer>
